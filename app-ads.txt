@@ -1,1 +1,1 @@
-google.com, pub-9616055830180260, DIRECT, f08c47fec0942fa0
+ownerdomain=nurimapdev-bit.github.io
