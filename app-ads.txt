@@ -1,1 +1,7 @@
 ownerdomain=nurimapdev-bit.github.io
+appads.in, 106246, RESELLER
+media.net, 8CUSC3UJ7, RESELLER
+media.net, 8CUUQ286L, RESELLER
+...
+unity.com, 148191561, DIRECT, 96cabb5fbdde37a7
+...
